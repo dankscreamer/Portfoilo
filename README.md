@@ -1,0 +1,1 @@
+Push-1: styled navbar and added the importat navbar elements
